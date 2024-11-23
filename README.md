@@ -6,10 +6,10 @@ Colab link for [**Algorithm**](https://colab.research.google.com/drive/1EK4-z03Q
 <summary>Algorithms</summary>
 <details>
 <summary>Searching</summary>
-[Linear Searching](#linear-Search-basic-loops)
-Binary Searching
-BFS - Breadth First Search
-DFS - Deepth First Search
+1. [Linear Searching](#linear-Search-basic-loops)
+2. Binary Searching
+3. BFS - Breadth First Search
+4. DFS - Deepth First Search
 </details>
 </details>
 # Algorithms
