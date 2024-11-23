@@ -1,6 +1,17 @@
 # Colab
 Colab link for [**Algorithm**](https://colab.research.google.com/drive/1EK4-z03QZUcAFj4SC2gbSqdx1KCDb22m?usp=sharing) and [**Data Structure**](https://colab.research.google.com/drive/1ypTLTR4JWhNfyrh9RRoMk7dXtyoM_zFz?usp=sharing)
 
+# Contents
+<details>
+<summary>Algorithms</summary>
+<details>
+<summary>Searching</summary>
+[Linear Searching](#linear-Search-basic-loops)
+Binary Searching
+BFS - Breadth First Search
+DFS - Deepth First Search
+</details>
+</details>
 # Algorithms
 
 ## Searching
