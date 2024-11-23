@@ -69,9 +69,9 @@ def binarySearch_RecursiveApproach(array, target, low, high):
 1. Start with 2 pointers: `low` (begining of the array) and `high` (end of the array)
 2. Calculate the `mid` index:`mid` = ⌊(`low` + `high`)/2⌋
 3. Compare the target element with the element at the `mid` index
-  * If equal, return `mid`
-  * If smaller, adjust `high` to `mid-1`
-  * If larger, adjust `low` to `mid+1`
+    * If equal, return `mid`
+    * If smaller, adjust `high` to `mid-1`
+    * If larger, adjust `low` to `mid+1`
 4. Repeat steps 2-3 until `low` exceeds `high` or the element is found
 5. If the element is not found, return `-1`
 
@@ -83,8 +83,8 @@ def binarySearch_RecursiveApproach(array, target, low, high):
 Explores **all nodes** at the current depth level before moving to the next level.
 It uses a queue data structure to keep track of nodes to visit.
 * Time Complexity: 𝑂(𝑉 + 𝐸), where
-  - 𝑉 is the number of vertices and
-  - 𝐸 is the number of edges.
+    - 𝑉 is the number of vertices and
+    - 𝐸 is the number of edges.
 * Space Complexity: 𝑂(𝑉) for the queue and visited set.
 
 ```
@@ -105,8 +105,8 @@ def bfs(graph, start):
 1. Start with the initial node and mark it as visited.
 2. Add the source node to a queue.
 3. While the queue is not empty:
-  * Remove the front node from the queue.
-  * Visit all its neighbors that have not been visited and add them to the queue.
+    - Remove the front node from the queue.
+    - Visit all its neighbors that have not been visited and add them to the queue.
 4. Repeat until all nodes at all levels are visited or the tarrget node is found.
 
 ## Advantages
