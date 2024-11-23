@@ -5,5 +5,5 @@ Colab link for [**Algorithm**](https://colab.research.google.com/drive/1EK4-z03Q
 
 ## Searching
 
-1. [Linear Search](algorithms/searching/searching.md#linear-search---basic-loops)
-2. [Binary Search](algorithms/searching/searching.md#binary-search---sorted-list-faster)
+1. [Linear Search](algorithms/searching/README.md#linear-search---basic-loops)
+2. [Binary Search](algorithms/searching/README.md#binary-search---sorted-list-faster)
